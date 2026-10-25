@@ -1,0 +1,25 @@
+
+--- Starting Summary ---
+Initial servers: 20
+Clock cycles: 100000
+Initial queue size: 2000
+Request time range: 5-100
+Scaling cooldown: 100
+Queue thresholds per server: 50-80
+Mode: Quiet
+
+
+--- Final Summary ---
+Total cycles: 100000
+Initial servers: 20
+Final servers: 6
+Generated requests: 12165
+Accepted requests: 11589
+Blocked requests: 576
+Completed requests: 11260
+Waiting requests: 323
+Requests in progress: 6
+Servers added: 5
+Servers removed: 19
+
+Simulation completed successfully.

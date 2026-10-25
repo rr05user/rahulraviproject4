@@ -1,0 +1,36 @@
+/* RR Load Balancer - Doxygen Branding */
+
+html {
+    --primary-color: #662333;
+    --primary-dark-color: #461725;
+    --primary-light-color: #f6eff1;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#projectname {
+    color: #662333;
+    font-weight: 700;
+}
+
+#projectbrief {
+    color: #666;
+}
+
+#projectlogo img {
+    max-height: 75px;
+}
+
+div.contents {
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #662333;
+}
+
+div.fragment {
+    border-radius: 5px;
+}

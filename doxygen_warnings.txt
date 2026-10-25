@@ -1,0 +1,15 @@
+error: Project logo 'rr-logo.svg' specified by PROJECT_LOGO does not exist!
+C:/Users/rahul/Downloads/Project4/Request.h:20: warning: argument rng from the argument list of generateRandomRequest has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/Request.h:20: warning: argument minTime from the argument list of generateRandomRequest has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/Request.h:20: warning: argument maxTime from the argument list of generateRandomRequest has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/Request.h:20: warning: too many @param commands for function generateRandomRequest. Found 6 while function has 3 parameters
+C:/Users/rahul/Downloads/Project4/Request.cpp:9: warning: argument rng from the argument list of generateRandomRequest has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/Request.cpp:9: warning: argument minTime from the argument list of generateRandomRequest has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/Request.cpp:9: warning: argument maxTime from the argument list of generateRandomRequest has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/Request.cpp:9: warning: too many @param commands for function generateRandomRequest. Found 6 while function has 3 parameters
+C:/Users/rahul/Downloads/Project4/IPFirewall.cpp:9: warning: argument ip from the argument list of IPFirewall::parseIPv4 has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/IPFirewall.cpp:9: warning: too many @param commands for function IPFirewall::parseIPv4. Found 2 while function has 1 parameter
+C:/Users/rahul/Downloads/Project4/WebServer.cpp:6: warning: argument id from the argument list of WebServer::WebServer has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/WebServer.cpp:6: warning: too many @param commands for function WebServer::WebServer. Found 2 while function has 1 parameter
+C:/Users/rahul/Downloads/Project4/WebServer.cpp:15: warning: argument request from the argument list of WebServer::assignRequest has multiple @param documentation sections
+C:/Users/rahul/Downloads/Project4/WebServer.cpp:15: warning: too many @param commands for function WebServer::assignRequest. Found 2 while function has 1 parameter

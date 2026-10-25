@@ -1,0 +1,28 @@
+PROJECT_NAME           = "RR Load Balancer"
+PROJECT_NUMBER         = "Project 4"
+PROJECT_BRIEF          = "C++ Cloud Computing Simulation"
+PROJECT_LOGO           = rr-logo.svg
+
+OUTPUT_DIRECTORY       = docs
+INPUT                  = .
+FILE_PATTERNS          = *.cpp *.h *.md
+RECURSIVE              = NO
+EXCLUDE                = docs
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+HTML_EXTRA_STYLESHEET  = rr-docs.css
+GENERATE_TREEVIEW      = YES
+USE_MDFILE_AS_MAINPAGE = README.md
+
+GENERATE_LATEX         = NO
+HAVE_DOT               = NO
+
+QUIET                  = YES
+WARN_IF_UNDOCUMENTED   = YES
+WARN_LOGFILE           = doxygen_warnings.txt
